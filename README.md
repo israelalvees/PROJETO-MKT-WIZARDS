@@ -31,4 +31,13 @@
 - Primeiro foram criados os modelos lógicos e dimensionais do banco e suas respectivas tabelas.
 - Após foram usados dois métodos a fim de prática:
     - Método 1: tabelas fato e dimensão criadas a partir de scripts SQL.
-    - Método 2: tabelas fato e dimensão criadas usando Pentaho. 
+    - Método 2: tabelas fato e dimensão criadas usando Pentaho.
+
+
+## MODELO TRANSFORMAÇÃO NO PENTAHO
+
+![image](https://github.com/israelalvees/PROJETO-MKT-WIZARDS/assets/128307729/efdcf8da-2e16-4f8e-b957-396e8ebb6795)
+
+- Foi utilizado o formato  "Excel Output" para facilitar a visualização do formato das tabelas.
+- Arquivo para visualização no Pentaho tão bem quanto scripts SQL encontram-se neste repositório para download.
+
