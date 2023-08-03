@@ -28,7 +28,7 @@
 
 ## PROCESSO
 
-- Primeiro foram criados os modelos lógicos e dimensionais do banco e suas respectivas tabelas.
+- Primeiro foram criados os modelos conteitual e lógico das tabelas.
 - Após foram usados dois métodos a fim de prática:
     - Método 1: tabelas fato e dimensão criadas a partir de scripts SQL.
     - Método 2: tabelas fato e dimensão criadas usando Pentaho.
